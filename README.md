@@ -1,2 +1,2 @@
 # Tic-tac-toe
-A classical game build on WINAPI
+A classical Tic-tac-toe game build on WINAPI with some fancy icons. 
